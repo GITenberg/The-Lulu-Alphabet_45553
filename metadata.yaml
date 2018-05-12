@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '42567'
     url: http://www.gutenberg.org/2009/agents/42567
 description: Illustrated.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45553#The-Lulu-Alphabet
 gutenberg_issued: '2014-05-01'
 gutenberg_type: Text
 identifiers:
